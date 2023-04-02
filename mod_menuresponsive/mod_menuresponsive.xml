@@ -3,8 +3,8 @@
 	<name>mod_menuresponsive</name>
 	<author>Diego Leone</author>
 	<creationDate>2023-03</creationDate>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<version>1.0.0</version>
+	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
+	<version>1.0.1</version>
 	<description>MOD_MENU_XML_DESCRIPTION</description>
 	<namespace path="src">Joomla\Module\MenuResponsive</namespace>
 	<files>

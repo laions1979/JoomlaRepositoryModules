@@ -27,4 +27,4 @@ if (!$list) {
     return;
 }
 
-require ModuleHelper::getLayoutPath('mod_menu', $params->get('layout', 'default'));
+require ModuleHelper::getLayoutPath('mod_menuresponsive', $params->get('layout', 'default'));
